@@ -27,7 +27,7 @@ body {
   
   .archive {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: 1.4em;
     grid-auto-flow:dense;
   }
@@ -56,6 +56,6 @@ body {
     background-size: cover;
     width: 100%;
     min-height: 450px;
-    height: 450px;
+    height: 500px;
     background-color: gainsboro;
   }
